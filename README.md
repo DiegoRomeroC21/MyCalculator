@@ -8,6 +8,10 @@ Permite realizar operaciones aritméticas simples: suma, resta, multiplicación 
 
    ```bash
    git clone https://github.com/DiegoRomeroC21/Mycalculator.git
+   
+o bien visita la pagina directamente en el link:
+   https://diegoromeroc21.github.io/MyCalculator/
+   
 💻 Tecnologías utilizadas
 HTML5
 
